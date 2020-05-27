@@ -1,0 +1,99 @@
+{
+    "Products": [
+      {
+        "id": "01tv",
+        "productName": "Samsung Series 4 80cm (32 inch) HD Ready LED Smart TV",
+        "imagePath": "/Samsung_Series4_TV.jpg",
+        "price": "13,999",
+        "deliveryBy": "Usually delivered and Installed in 9-10 days",
+        "features": [
+            {
+              "title": "Resolution: HD Ready (1366x768) | Refresh Rate: 50 hertz",
+              "description": "Connectivity: 2 HDMI ports to connect set top box, Blu Ray players, gaming console | 2 USB ports to connect hard drives and other USB devices",
+              "sound": "Sound : 30 Watts Output | Built-in Woofer: Power your entertainment with deep bass",
+              "options": "Smart TV Features : Smart Plug and Play: Easily connect and view photos, music and videos from mobile phone or USB device | USB Tethering: Seamlessly connect to Internet with Mobile Data | Access YouTube instantly with one click",
+              "display": "Display : HDR: A truly lifelike viewing experience | X-Reality Pro: Rediscover every detail | X-Protection PRO: Xtra Protection TV",
+              "warranty": "Warranty Information: 1 year warranty provided by Sony from date of purchase",
+              "installation": "Installation: For requesting installation/wall mounting/demo of this product once delivered, please directly call Sony support on 1800 103 7799 and provide product's model name as well as seller's details mentioned on the invoice",
+              "returnPolicy": "Easy returns: This product is eligible for replacement within 10 days of delivery in case of any product defects, damage or features not matching the description provided"
+            }
+          ]
+      },
+      {
+        "id": "02tv",
+        "productName": "LG All-in-One 80cm (32 inch) HD Ready LED Smart TV",
+        "imagePath": "/LG_Smart_TV.jpg",
+        "price": "14,999",
+        "deliveryBy": "Usually delivered and Installed in 3-5 days",
+        "features": [
+          {
+            "title": "Resolution: HD Ready (1366x768) | Refresh Rate: 50 hertz",
+            "description": "Connectivity: 2 HDMI ports to connect set top box, Blu Ray players, gaming console | 2 USB ports to connect hard drives and other USB devices",
+            "sound": "Sound : 30 Watts Output | Built-in Woofer: Power your entertainment with deep bass",
+            "options": "Smart TV Features : Smart Plug and Play: Easily connect and view photos, music and videos from mobile phone or USB device | USB Tethering: Seamlessly connect to Internet with Mobile Data | Access YouTube instantly with one click",
+            "display": "Display : HDR: A truly lifelike viewing experience | X-Reality Pro: Rediscover every detail | X-Protection PRO: Xtra Protection TV",
+            "warranty": "Warranty Information: 1 year warranty provided by Sony from date of purchase",
+            "installation": "Installation: For requesting installation/wall mounting/demo of this product once delivered, please directly call Sony support on 1800 103 7799 and provide product's model name as well as seller's details mentioned on the invoice",
+            "returnPolicy": "Easy returns: This product is eligible for replacement within 10 days of delivery in case of any product defects, damage or features not matching the description provided"
+          }
+        ]
+      },
+      {
+        "id": "03tv",
+        "productName": "LG 108cm (43 inch) Ultra HD (4K) LED Smart TV",
+        "imagePath": "/LG_UHD_TV.jpg",
+        "price": "36,499",
+        "deliveryBy": "Usually delivered and Installed in 3-5 days",
+        "features": [
+          {
+            "title": "Resolution: HD Ready (1366x768) | Refresh Rate: 50 hertz",
+            "description": "Connectivity: 2 HDMI ports to connect set top box, Blu Ray players, gaming console | 2 USB ports to connect hard drives and other USB devices",
+            "sound": "Sound : 30 Watts Output | Built-in Woofer: Power your entertainment with deep bass",
+            "options": "Smart TV Features : Smart Plug and Play: Easily connect and view photos, music and videos from mobile phone or USB device | USB Tethering: Seamlessly connect to Internet with Mobile Data | Access YouTube instantly with one click",
+            "display": "Display : HDR: A truly lifelike viewing experience | X-Reality Pro: Rediscover every detail | X-Protection PRO: Xtra Protection TV",
+            "warranty": "Warranty Information: 1 year warranty provided by Sony from date of purchase",
+            "installation": "Installation: For requesting installation/wall mounting/demo of this product once delivered, please directly call Sony support on 1800 103 7799 and provide product's model name as well as seller's details mentioned on the invoice",
+            "returnPolicy": "Easy returns: This product is eligible for replacement within 10 days of delivery in case of any product defects, damage or features not matching the description provided"
+          }
+        ]
+      },
+      {
+        "id": "04tv",
+        "productName": "Samsung 80cm (32 inch) HD Ready LED TV",
+        "imagePath": "/Samsung_HD_TV.jpg",
+        "price": "12,499",
+        "deliveryBy": "Usually delivered and Installed in 2-5 days",
+        "features": [
+          {
+            "title": "Resolution: HD Ready (1366x768) | Refresh Rate: 50 hertz",
+            "description": "Connectivity: 2 HDMI ports to connect set top box, Blu Ray players, gaming console | 2 USB ports to connect hard drives and other USB devices",
+            "sound": "Sound : 30 Watts Output | Built-in Woofer: Power your entertainment with deep bass",
+            "options": "Smart TV Features : Smart Plug and Play: Easily connect and view photos, music and videos from mobile phone or USB device | USB Tethering: Seamlessly connect to Internet with Mobile Data | Access YouTube instantly with one click",
+            "display": "Display : HDR: A truly lifelike viewing experience | X-Reality Pro: Rediscover every detail | X-Protection PRO: Xtra Protection TV",
+            "warranty": "Warranty Information: 1 year warranty provided by Sony from date of purchase",
+            "installation": "Installation: For requesting installation/wall mounting/demo of this product once delivered, please directly call Sony support on 1800 103 7799 and provide product's model name as well as seller's details mentioned on the invoice",
+            "returnPolicy": "Easy returns: This product is eligible for replacement within 10 days of delivery in case of any product defects, damage or features not matching the description provided"
+          }
+        ]
+      },
+      {
+        "id": "05tv",
+        "productName": "Sony Bravia X8500F 108cm (43 inch) Ultra HD (4K) LED Smart Android TV",
+        "imagePath": "/Sony_Bravia_TV.jpg",
+        "price": "49,999",
+        "deliveryBy": "Usually delivered and Installed in 4-8 days",
+        "features": [
+          {
+            "title": "Resolution: HD Ready (1366x768) | Refresh Rate: 50 hertz",
+            "description": "Connectivity: 2 HDMI ports to connect set top box, Blu Ray players, gaming console | 2 USB ports to connect hard drives and other USB devices",
+            "sound": "Sound : 30 Watts Output | Built-in Woofer: Power your entertainment with deep bass",
+            "options": "Smart TV Features : Smart Plug and Play: Easily connect and view photos, music and videos from mobile phone or USB device | USB Tethering: Seamlessly connect to Internet with Mobile Data | Access YouTube instantly with one click",
+            "display": "Display : HDR: A truly lifelike viewing experience | X-Reality Pro: Rediscover every detail | X-Protection PRO: Xtra Protection TV",
+            "warranty": "Warranty Information: 1 year warranty provided by Sony from date of purchase",
+            "installation": "Installation: For requesting installation/wall mounting/demo of this product once delivered, please directly call Sony support on 1800 103 7799 and provide product's model name as well as seller's details mentioned on the invoice",
+            "returnPolicy": "Easy returns: This product is eligible for replacement within 10 days of delivery in case of any product defects, damage or features not matching the description provided"
+          }
+        ]
+      }
+    ]   
+}
