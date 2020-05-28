@@ -3,7 +3,7 @@
       {
         "id": "01tv",
         "productName": "Samsung Series 4 80cm (32 inch) HD Ready LED Smart TV",
-        "imagePath": "https://github.com/VeerVin/mockJson/blob/master/products/Samsung_Series4_TV.jpg",
+        "imagePath": "https://github.com/VeerVin/mockJson/blob/master/products/Samsung_Series4_TV.jpeg",
         "price": "13,999",
         "deliveryBy": "Usually delivered and Installed in 9-10 days",
         "features": [
@@ -22,7 +22,7 @@
       {
         "id": "02tv",
         "productName": "LG All-in-One 80cm (32 inch) HD Ready LED Smart TV",
-        "imagePath": "https://github.com/VeerVin/mockJson/blob/master/products/LG_Smart_TV.jpg",
+        "imagePath": "https://github.com/VeerVin/mockJson/blob/master/products/LG_Smart_TV.jpeg",
         "price": "14,999",
         "deliveryBy": "Usually delivered and Installed in 3-5 days",
         "features": [
@@ -41,7 +41,7 @@
       {
         "id": "03tv",
         "productName": "LG 108cm (43 inch) Ultra HD (4K) LED Smart TV",
-        "imagePath": "https://github.com/VeerVin/mockJson/blob/master/products/LG_UHD_TV.jpg",
+        "imagePath": "https://github.com/VeerVin/mockJson/blob/master/products/LG_UHD_TV.jpeg",
         "price": "36,499",
         "deliveryBy": "Usually delivered and Installed in 3-5 days",
         "features": [
@@ -60,7 +60,7 @@
       {
         "id": "04tv",
         "productName": "Samsung 80cm (32 inch) HD Ready LED TV",
-        "imagePath": "https://github.com/VeerVin/mockJson/blob/master/products/Samsung_HD_TV.jpg",
+        "imagePath": "https://github.com/VeerVin/mockJson/blob/master/products/Samsung_HD_TV.jpeg",
         "price": "12,499",
         "deliveryBy": "Usually delivered and Installed in 2-5 days",
         "features": [
@@ -79,7 +79,7 @@
       {
         "id": "05tv",
         "productName": "Sony Bravia X8500F 108cm (43 inch) Ultra HD (4K) LED Smart Android TV",
-        "imagePath": "https://github.com/VeerVin/mockJson/blob/master/products/Sony_Bravia_TV.jpg",
+        "imagePath": "https://github.com/VeerVin/mockJson/blob/master/products/Sony_Bravia_TV.jpeg",
         "price": "49,999",
         "deliveryBy": "Usually delivered and Installed in 4-8 days",
         "features": [
