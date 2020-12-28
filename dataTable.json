@@ -1,7 +1,7 @@
 {
     "rows": [
         {
-            "patientId":1,
+            "patientId":{1245-A934G-3434-T56Y},
             "otherId":"LanTest101",
             "firstName":"x1",
             "lastName":"yLanTest101",
@@ -11,7 +11,7 @@
         },
          
         {
-            "patientId":2,
+            "patientId":{343334-A934G-5656-T56Y},
             "otherId":"LanTest102",
             "firstName":"x2",
             "lastName":"yLanTest102",
@@ -21,7 +21,7 @@
         },
          
         {
-            "patientId":3,
+            "patientId":{SDSD-3434-5656-T5346Y},
             "otherId":"Test1111",
             "firstName":"x3",
             "lastName":"yTest1111",
